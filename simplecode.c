@@ -9,6 +9,6 @@ int main() {
         sum += arr[i];
     }
 
-    printf("Sum of the array: %d\n", sum);
+    printf("sum of the array is: %d\n", sum);
     return 0;
 }
